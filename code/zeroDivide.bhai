@@ -1,0 +1,5 @@
+// RuntimeException: RuntimeException: Kya kar rha hai tu??...zero se divide ni karte
+
+hi bhai
+    bol bhai 10/0;
+bye bhai

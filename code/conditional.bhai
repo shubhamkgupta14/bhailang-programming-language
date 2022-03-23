@@ -1,0 +1,10 @@
+// Even Odd number checking
+
+hi bhai
+    bhai ye hai a = 10;
+    agar bhai (a%2 == 0){
+        bol bhai "Are ye to Even hai.";
+    } warna bhai {
+        bol bhai "Ye to Odd hai.";
+    }
+bye bhai

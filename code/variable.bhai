@@ -1,0 +1,8 @@
+// We can declare any variable by using keyword - "bhai ye hai"
+// to print output on console use keyword - "bol bhai"
+
+hi bhai
+    bhai ye hai a = 10;
+    bhai ye hai b = 13;
+    bol bhai a+b;
+bye bhai

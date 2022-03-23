@@ -1,0 +1,18 @@
+hi bhai
+    bhai ye hai a = 0;
+    jab tak bhai (a < 10){
+        a += 1;
+        agar bhai(a == 4){
+            bol bhai "ye hai ", a;
+        }
+        agar bhai(a == 6){
+            bol bhai "Agla dekh";
+            agla dekh bhai;
+        }
+        agar bhai(a == 8){
+            bol bhai "Ruk ja";
+            bas kar bhai;
+        }
+    }
+    bol bhai "Bas bhai, mai to thak gya", a;
+bye bhai

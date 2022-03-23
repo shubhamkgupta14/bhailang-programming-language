@@ -1,0 +1,6 @@
+//  SyntaxError: kya kar rha hai tu??...Unexpected token: "bol bhai", expected : ";"
+
+hi bhai
+    bhai ye hai a = 10
+    bol bhai a;
+bye bhai

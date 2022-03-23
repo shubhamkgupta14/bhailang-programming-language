@@ -1,0 +1,6 @@
+//   RuntimeException: RuntimeException: Variable "nulla" bana to le pehle.
+
+hi bhai
+    bhai ye hai a = nulla;
+    bol bhai a+10;
+bye bhai
